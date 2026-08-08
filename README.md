@@ -5,7 +5,7 @@
   github.com/shavhamdamov/shavhamdamov  ->  README.md
 -->
 
-<h1 align="center">Hi, I'm Shav Hamdamov 👋</h1>
+<h1 align="center"> Shav Hamdamov </h1>
 <p align="center">
   <b>Senior Director, Analytics & Data Science</b><br>
   Data Science Leadership · Data Engineering · Analytics Engineering
